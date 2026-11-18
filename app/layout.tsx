@@ -8,11 +8,20 @@ const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"]
 // The masthead face: condensed and heavy, like a cover logo.
 const anton = Anton({ variable: "--font-anton", weight: "400", subsets: ["latin"] });
 
+const SITE = process.env.NEXT_PUBLIC_SITE_URL ?? "https://comics.inchipala.com";
+
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://comics.inchipala.com"),
-  title: `${BRAND.name} Comics — anything can be a comic`,
+  metadataBase: new URL(SITE),
+  title: "Comics",
   appleWebApp: { capable: true, title: "Comics", statusBarStyle: "default" },
   description: BRAND.tagline,
+  // The link preview: the card (opengraph-image.tsx) and, where previews play video, a page being made from words to paint, on a loop.
+  openGraph: {
+    title: "Comics",
+    description: BRAND.tagline,
+    type: "website",
+    videos: [{ url: new URL("/comics-loop.mp4", SITE).toString(), type: "video/mp4", width: 1280, height: 720 }], // (videos are not resolved against metadataBase)
+  },
 };
 
 export const viewport: Viewport = {
