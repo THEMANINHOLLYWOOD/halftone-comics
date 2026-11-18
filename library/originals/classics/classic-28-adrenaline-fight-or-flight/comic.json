@@ -1,0 +1,22 @@
+{
+  "id": "classic-28-adrenaline-fight-or-flight",
+  "title": "ADRENALINE! FIGHT OR FLIGHT?",
+  "issue": 28,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 28,
+  "createdAt": "2024-12-05T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

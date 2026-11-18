@@ -1,0 +1,22 @@
+{
+  "id": "classic-20-burning-studio-lights-the-world-on-fire",
+  "title": "BURNING STUDIO LIGHTS — THE WORLD ON FIRE",
+  "issue": 20,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 20,
+  "createdAt": "2024-12-13T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

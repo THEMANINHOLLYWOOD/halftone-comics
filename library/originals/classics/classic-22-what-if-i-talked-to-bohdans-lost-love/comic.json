@@ -1,0 +1,22 @@
+{
+  "id": "classic-22-what-if-i-talked-to-bohdans-lost-love",
+  "title": "WHAT IF I TALKED TO BOHDAN'S LOST LOVE?",
+  "issue": 22,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 22,
+  "createdAt": "2024-12-11T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+import type { Metadata, Viewport } from "next";
+import { Anton, Geist, Geist_Mono } from "next/font/google";
+import { BRAND } from "@/lib/brand";
+import "./globals.css";
+
+const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
+const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
+// The masthead face: condensed and heavy, like a cover logo.
+const anton = Anton({ variable: "--font-anton", weight: "400", subsets: ["latin"] });
+
+export const metadata: Metadata = {
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://comics.inchipala.com"),
+  title: `${BRAND.name} Comics — anything can be a comic`,
+  appleWebApp: { capable: true, title: "Comics", statusBarStyle: "default" },
+  description: BRAND.tagline,
+};
+
+export const viewport: Viewport = {
+  themeColor: "#f4f4f2",
+  // Draw under the notch and home bar; the UI pads itself with safe-area insets.
+  viewportFit: "cover",
+};
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <html lang="en" className={`${geistSans.variable} ${geistMono.variable} ${anton.variable} h-full antialiased`}>
+      <body className="h-full">{children}</body>
+    </html>
+  );
+}

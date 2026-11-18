@@ -1,0 +1,22 @@
+{
+  "id": "classic-14-its-not-a-game-illinois",
+  "title": "IT'S NOT A GAME (Illinois)",
+  "issue": 14,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 14,
+  "createdAt": "2024-12-19T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

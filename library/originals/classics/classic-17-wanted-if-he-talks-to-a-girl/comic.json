@@ -1,0 +1,22 @@
+{
+  "id": "classic-17-wanted-if-he-talks-to-a-girl",
+  "title": "WANTED — IF HE TALKS TO A GIRL",
+  "issue": 17,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 17,
+  "createdAt": "2024-12-16T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

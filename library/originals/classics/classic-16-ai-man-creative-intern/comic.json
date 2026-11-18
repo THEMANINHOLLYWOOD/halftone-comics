@@ -1,0 +1,22 @@
+{
+  "id": "classic-16-ai-man-creative-intern",
+  "title": "AI MAN — CREATIVE INTERN",
+  "issue": 16,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 16,
+  "createdAt": "2024-12-17T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

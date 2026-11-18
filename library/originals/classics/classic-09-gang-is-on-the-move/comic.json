@@ -1,0 +1,22 @@
+{
+  "id": "classic-09-gang-is-on-the-move",
+  "title": "GANG IS ON THE MOVE",
+  "issue": 9,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 9,
+  "createdAt": "2024-12-24T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

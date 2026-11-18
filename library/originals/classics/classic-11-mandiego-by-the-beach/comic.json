@@ -1,0 +1,22 @@
+{
+  "id": "classic-11-mandiego-by-the-beach",
+  "title": "MANDIEGO BY THE BEACH",
+  "issue": 11,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 11,
+  "createdAt": "2024-12-22T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

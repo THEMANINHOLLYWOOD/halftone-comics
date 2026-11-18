@@ -1,0 +1,22 @@
+{
+  "id": "classic-21-speed-cuber-joins-burning-studio",
+  "title": "SPEED CUBER JOINS BURNING STUDIO",
+  "issue": 21,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 21,
+  "createdAt": "2024-12-12T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

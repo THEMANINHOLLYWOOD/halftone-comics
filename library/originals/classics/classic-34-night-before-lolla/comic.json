@@ -1,0 +1,22 @@
+{
+  "id": "classic-34-night-before-lolla",
+  "title": "NIGHT BEFORE LOLLA",
+  "issue": 34,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 34,
+  "createdAt": "2024-11-29T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

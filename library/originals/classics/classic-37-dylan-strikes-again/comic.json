@@ -1,0 +1,22 @@
+{
+  "id": "classic-37-dylan-strikes-again",
+  "title": "DYLAN STRIKES AGAIN",
+  "issue": 37,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 37,
+  "createdAt": "2024-11-26T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

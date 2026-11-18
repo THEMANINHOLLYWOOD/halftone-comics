@@ -1,0 +1,22 @@
+{
+  "id": "classic-29-id-insist-you-leave",
+  "title": "I'D INSIST YOU LEAVE.",
+  "issue": 29,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 29,
+  "createdAt": "2024-12-04T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

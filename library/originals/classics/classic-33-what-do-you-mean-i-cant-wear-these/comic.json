@@ -1,0 +1,22 @@
+{
+  "id": "classic-33-what-do-you-mean-i-cant-wear-these",
+  "title": "WHAT DO YOU MEAN I CAN'T WEAR THESE?",
+  "issue": 33,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 33,
+  "createdAt": "2024-11-30T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

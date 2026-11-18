@@ -1,0 +1,22 @@
+{
+  "id": "classic-24-where-is-abdul",
+  "title": "WHERE IS ABDUL?!",
+  "issue": 24,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 24,
+  "createdAt": "2024-12-09T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

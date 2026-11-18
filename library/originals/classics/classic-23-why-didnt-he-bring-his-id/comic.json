@@ -1,0 +1,22 @@
+{
+  "id": "classic-23-why-didnt-he-bring-his-id",
+  "title": "WHY DIDN'T HE BRING HIS ID?",
+  "issue": 23,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 23,
+  "createdAt": "2024-12-10T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

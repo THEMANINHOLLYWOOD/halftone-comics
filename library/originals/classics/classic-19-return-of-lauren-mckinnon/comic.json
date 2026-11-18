@@ -1,0 +1,22 @@
+{
+  "id": "classic-19-return-of-lauren-mckinnon",
+  "title": "RETURN OF LAUREN MCKINNON",
+  "issue": 19,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 19,
+  "createdAt": "2024-12-14T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

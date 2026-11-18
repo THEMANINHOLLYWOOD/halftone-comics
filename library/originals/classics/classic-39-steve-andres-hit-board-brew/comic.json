@@ -1,0 +1,22 @@
+{
+  "id": "classic-39-steve-andres-hit-board-brew",
+  "title": "STEVE & ANDRES HIT BOARD & BREW",
+  "issue": 39,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 39,
+  "createdAt": "2024-11-24T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

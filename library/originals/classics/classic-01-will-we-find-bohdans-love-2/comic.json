@@ -1,0 +1,22 @@
+{
+  "id": "classic-01-will-we-find-bohdans-love-2",
+  "title": "WILL WE FIND BOHDAN'S LOVE 2",
+  "issue": 1,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 1,
+  "createdAt": "2025-01-01T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

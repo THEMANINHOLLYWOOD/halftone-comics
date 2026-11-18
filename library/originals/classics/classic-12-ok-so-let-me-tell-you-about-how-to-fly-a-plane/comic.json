@@ -1,0 +1,22 @@
+{
+  "id": "classic-12-ok-so-let-me-tell-you-about-how-to-fly-a-plane",
+  "title": "OK SO LET ME TELL YOU ABOUT HOW TO FLY A PLANE",
+  "issue": 12,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 12,
+  "createdAt": "2024-12-21T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

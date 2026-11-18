@@ -1,0 +1,22 @@
+{
+  "id": "classic-04-techsphere-goes-unspiraled",
+  "title": "TECHSPHERE GOES UNSPIRALED",
+  "issue": 4,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 4,
+  "createdAt": "2024-12-29T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

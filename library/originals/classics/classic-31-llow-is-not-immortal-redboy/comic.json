@@ -1,0 +1,22 @@
+{
+  "id": "classic-31-llow-is-not-immortal-redboy",
+  "title": "LLOW IS NOT IMMORTAL: Redboy",
+  "issue": 31,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 31,
+  "createdAt": "2024-12-02T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

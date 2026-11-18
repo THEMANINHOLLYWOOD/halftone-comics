@@ -1,0 +1,10 @@
+# Local data and secrets never ship; the deployed site keeps comics in Vercel Blob.
+library
+.env*
+!.env.example
+.next
+node_modules
+.claude
+# Old personal classics, kept locally only; never deployed.
+archive
+.playwright-mcp

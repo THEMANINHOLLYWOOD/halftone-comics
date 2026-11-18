@@ -1,0 +1,22 @@
+{
+  "id": "classic-35-they-can-buy-through-the-marketplace",
+  "title": "THEY CAN BUY THROUGH THE MARKETPLACE",
+  "issue": 35,
+  "collection": "classic",
+  "era": "burning-classic",
+  "order": 35,
+  "createdAt": "2024-11-28T00:00:00.000Z",
+  "status": "ready",
+  "source": {
+    "kind": "import",
+    "from": "https://andreslikescomics.com"
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "file": "cover.png",
+      "status": "ready"
+    }
+  ]
+}

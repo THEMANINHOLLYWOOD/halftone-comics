@@ -1,0 +1,102 @@
+{
+  "id": "20261116-a-collector-finds-a-strange-vintag-qt47",
+  "title": "THE FLEXING GRAIL",
+  "issue": 1,
+  "era": "newsstand",
+  "collection": "new",
+  "createdAt": "2026-11-16T20:50:40.413Z",
+  "status": "ready",
+  "prompt": "A collector finds a strange vintage comic that bends and flips over by itself on a blank white table. Invent the comic on the sheet: original characters only.",
+  "artist": "openai/gpt-image-2.6-sunburst",
+  "pages": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "status": "ready",
+      "attempts": 0,
+      "urls": {
+        "full": "/api/files/comics/20261116-a-collector-finds-a-strange-vintag-qt47/cover.r1.png",
+        "w1280": "/api/files/comics/20261116-a-collector-finds-a-strange-vintag-qt47/cover.r1.w1280.jpg",
+        "w640": "/api/files/comics/20261116-a-collector-finds-a-strange-vintag-qt47/cover.r1.w640.jpg",
+        "w320": "/api/files/comics/20261116-a-collector-finds-a-strange-vintag-qt47/cover.r1.w320.jpg"
+      },
+      "rev": 1,
+      "artist": "openai/gpt-image-2.6-sunburst"
+    },
+    {
+      "id": "page-01",
+      "kind": "page",
+      "status": "ready",
+      "caption": "Arthur lays down his prized collectible vintage comic on a pristine white desk, only for the issue to warp and bend under its own power.",
+      "urls": {
+        "full": "/api/files/comics/20261116-a-collector-finds-a-strange-vintag-qt47/page-01.r1.png",
+        "w1280": "/api/files/comics/20261116-a-collector-finds-a-strange-vintag-qt47/page-01.r1.w1280.jpg",
+        "w640": "/api/files/comics/20261116-a-collector-finds-a-strange-vintag-qt47/page-01.r1.w640.jpg",
+        "w320": "/api/files/comics/20261116-a-collector-finds-a-strange-vintag-qt47/page-01.r1.w320.jpg"
+      },
+      "rev": 1,
+      "attempts": 0,
+      "artist": "openai/gpt-image-2.6-sunburst"
+    },
+    {
+      "id": "page-02",
+      "kind": "page",
+      "status": "ready",
+      "caption": "The vintage comic flips completely over in mid-air to showcase its retro back cover advertisement before settling flat once more.",
+      "urls": {
+        "full": "/api/files/comics/20261116-a-collector-finds-a-strange-vintag-qt47/page-02.r1.png",
+        "w1280": "/api/files/comics/20261116-a-collector-finds-a-strange-vintag-qt47/page-02.r1.w1280.jpg",
+        "w640": "/api/files/comics/20261116-a-collector-finds-a-strange-vintag-qt47/page-02.r1.w640.jpg",
+        "w320": "/api/files/comics/20261116-a-collector-finds-a-strange-vintag-qt47/page-02.r1.w320.jpg"
+      },
+      "rev": 1,
+      "attempts": 0,
+      "artist": "openai/gpt-image-2.6-sunburst"
+    },
+    {
+      "id": "back",
+      "kind": "back",
+      "status": "ready",
+      "urls": {
+        "full": "/api/files/comics/20261116-a-collector-finds-a-strange-vintag-qt47/back.r1.png",
+        "w1280": "/api/files/comics/20261116-a-collector-finds-a-strange-vintag-qt47/back.r1.w1280.jpg",
+        "w640": "/api/files/comics/20261116-a-collector-finds-a-strange-vintag-qt47/back.r1.w640.jpg",
+        "w320": "/api/files/comics/20261116-a-collector-finds-a-strange-vintag-qt47/back.r1.w320.jpg"
+      },
+      "rev": 1,
+      "attempts": 0,
+      "artist": "openai/gpt-image-2.6-sunburst"
+    }
+  ],
+  "tagline": "IT BENDS! IT FLIPS! IT DEFIES GRAVITY!",
+  "sources": [
+    {
+      "kind": "video",
+      "name": "reference clip.mp4"
+    }
+  ],
+  "script": {
+    "title": "THE FLEXING GRAIL",
+    "tagline": "IT BENDS! IT FLIPS! IT DEFIES GRAVITY!",
+    "logline": "A collector finds a strange vintage comic.",
+    "setting": "A comic shop",
+    "characters": [],
+    "cover": {
+      "concept": "cover",
+      "blurb": ""
+    },
+    "pages": [
+      {
+        "summary": "one",
+        "panels": []
+      },
+      {
+        "summary": "two",
+        "panels": []
+      }
+    ],
+    "back": {
+      "concept": "back"
+    }
+  }
+}
