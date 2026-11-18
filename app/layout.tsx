@@ -15,12 +15,12 @@ export const metadata: Metadata = {
   title: "Comics",
   appleWebApp: { capable: true, title: "Comics", statusBarStyle: "default" },
   description: BRAND.tagline,
-  // The link preview: the card (opengraph-image.tsx) and, where previews play video, a page being made from words to paint, on a loop.
+  // The link preview: the card (opengraph-image.tsx) and, where previews play video, Pianissimo being built by the hero cursors, on a loop.
   openGraph: {
     title: "Comics",
     description: BRAND.tagline,
     type: "website",
-    videos: [{ url: new URL("/comics-loop.mp4", SITE).toString(), type: "video/mp4", width: 1280, height: 720 }], // (videos are not resolved against metadataBase)
+    videos: [{ url: new URL("/pianissimo-loop.mp4", SITE).toString(), type: "video/mp4", width: 1280, height: 720 }], // (videos are not resolved against metadataBase)
   },
 };
 
